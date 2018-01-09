@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31 déc. 2017, 12:38:49
+    Author     : olivier
+*/
+
+.menu:hover{
+  /*-fx-font-weight: bold;*/
+  -fx-text-fill: #fff;
+}
+
+Label{
+   -fx-text-fill: #888; 
+}
+
+.fond{
+    -fx-background-color: #bbb;
+}
+
+Line{
+    -fx-stroke: #888;
+}
+
+#curseur{
+    -fx-fill: #888;
+}
+
+#segment{
+    -fx-color:#fff;
+    -fx-opacity: 0.5;
+}
+
+#centerable:hover{
+  /*-fx-font-weight: bold;*/
+  -fx-text-fill: #fff;
+}
