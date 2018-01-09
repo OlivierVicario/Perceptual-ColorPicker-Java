@@ -3,7 +3,7 @@
 
 What the project does
 
-PCP is a colorpicker that use a bacground to display different color plans from CIE Lab and LcH color spaces i.e. a/b, b/L, a/L, c/H, c/L, H/L. The third coordinate which is not in the plane define it in the colors volume. It can vary with slider as a constant or as a gradient.
+PCP is a colorpicker that use a background to display different color plans from CIE Lab and LcH color spaces i.e. a/b, b/L, a/L, c/H, c/L, H/L. The third coordinate which is not in the plane define it in the colors volume. It can vary with slider as a constant or as a gradient.
 Upon these background you can use different tools i.e. segment, spline, polygon, related or palette to choose set of colors.
 Colors coordinates can be display in CIE Lab, CIE LcH, WEB, sRGB code.
 You can snapshot the whole user interface or just the color palette with coordinates as png file. You can also save in the clipboard the web codes.
