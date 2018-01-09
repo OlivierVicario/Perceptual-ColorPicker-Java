@@ -10,7 +10,8 @@ You can snapshot the whole user interface or just the color palette with coordin
 
 Why the project is useful
 
-The project is useful because standard colorpicker use colorspaces that are not adapted to the human vision of colors. They should not be used in graphic software.
+The project is useful because standard colorpicker use colorspaces that are not adapted to the human vision of colors. They should not be used in graphic software to choose color scheme :
+
 ![alt text](https://raw.githubusercontent.com/OlivierVicario/Perceptual-ColorPicker/master/src/perceptualcolorpicker/help/palettes_triangle-1-1024x490.png)
 
 How users can get started with the project
