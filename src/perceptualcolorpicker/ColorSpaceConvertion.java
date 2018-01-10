@@ -1,22 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package perceptualcolorpicker;
 
 import javafx.scene.paint.Color;
 
-/**
- *    //constantes ColorSpaceConversion final float minL = 0.0f, maxL = 100.0f;
- * final float mina = -86.18426f, maxa = 98.25467f; final float minb =
- * -107.855545f, maxb = 94.48676f;
- *
- *
- *
- * @author olivier
- */
-/**
+/*
  * Basic color space conversion utilities, assuming two degree observer and
  * illuminant D65.
  *
