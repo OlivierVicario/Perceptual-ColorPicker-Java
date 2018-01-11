@@ -16,7 +16,7 @@ The project is useful because standard colorpicker use colorspaces that are not 
 
 How users can get started with the project
 
-PCP is a javafx project. Just donwload the PerceptualColorPicker.jar to use it. Help is included.
+PCP is a javafx project. Just download the PerceptualColorPicker.jar to use it. Help is included.
 
 Where users can get help with your project
 
