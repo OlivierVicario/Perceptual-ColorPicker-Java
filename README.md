@@ -18,11 +18,11 @@ How users can get started with the project
 
 PCP is a javafx project. Just download the PerceptualColorPicker.jar to use it. Help is included.
 
-Where users can get help with your project
+Where users can get help with your project :
 
-wiki : work in progress.
+help manual is in wiki.
 
 Who maintains and contributes to the project
 
-page: work in progress.
+Olivier Vicario
 
