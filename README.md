@@ -1,5 +1,5 @@
 # Perceptual-ColorPicker
-![alt text](https://raw.githubusercontent.com/OlivierVicario/Perceptual-ColorPicker/master/src/perceptualcolorpicker/help/ensemble.png)
+![alt text](https://raw.githubusercontent.com/OlivierVicario/Perceptual-ColorPicker-Java/master/src/perceptualcolorpicker/help/ensemble.png)
 
 What the project does
 
@@ -12,7 +12,7 @@ Why the project is useful
 
 The project is useful because standard colorpicker use colorspaces that are not adapted to the human vision of colors. They should not be used in graphic software to choose color scheme :
 
-![alt text](https://raw.githubusercontent.com/OlivierVicario/Perceptual-ColorPicker/master/src/perceptualcolorpicker/help/palettes_triangle-1-1024x490.png)
+![alt text](https://raw.githubusercontent.com/OlivierVicario/Perceptual-ColorPicker/master/src/perceptualcolorpicker-Java/help/palettes_triangle-1-1024x490.png)
 
 How users can get started with the project
 
